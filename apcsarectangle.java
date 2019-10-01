@@ -12,10 +12,10 @@ public class apcsarectangle {
         double area = length * width;
 
         System.out.printf("\nThe area of a "
-        System.out.printdf("%.1f"length);
+        System.out.printdf("%.1f",length);
         System.out.print("-by-")
-        System.out.printf("%.1f"width);
-        System.out.printf("rectangle is %.1f" area);
+        System.out.printf("%.1f",width);
+        System.out.printf("rectangle is %.1f.", area);
         
         in.close();
       }
